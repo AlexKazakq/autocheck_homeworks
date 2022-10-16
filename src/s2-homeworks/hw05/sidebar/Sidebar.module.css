@@ -11,13 +11,19 @@
 }
 
 .nav a {
+    margin-left: 20px;
 }
 
 .nav a:hover {
+
 }
 
 .nav a.active {
+    color: #0066cc;
+    text-decoration: underline;
+    font-weight: 700;
 }
+
 .close {
 }
 
