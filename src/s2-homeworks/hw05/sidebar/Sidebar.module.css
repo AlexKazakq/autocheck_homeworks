@@ -1,21 +1,39 @@
 .sidebar {
+    display: none;
 }
 
 .sidebar.open {
+    display: block;
+    position: fixed;
+    height: 100%;
+    width: 300px;
+    z-index: 999999;
+    overflow: hidden;
+    background-color: white;
 }
 
 .background {
+    position: absolute;
+    z-index: 3;
+    height: 100%;
+    width: 100%;
+    background-color: gray;
+    opacity: 0.5;
 }
 
 .nav {
+    display: flex;
+    flex-direction: column;
 }
 
 .nav a {
     margin-left: 20px;
+    margin-top: 30px;
+    font-size: 25px;
 }
 
 .nav a:hover {
-
+    color: deepskyblue;
 }
 
 .nav a.active {
@@ -24,8 +42,17 @@
     font-weight: 700;
 }
 
+nav a:visited {
+   text-decoration: white;
+    color: black;
+}
+
 .close {
+    position: relative;
+    left: 272px;
+    border: 1px solid white;
 }
 
 .close img {
+
 }
