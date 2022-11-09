@@ -5,9 +5,15 @@
 }
 
 .users {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 300px;
+    line-height: 30px;
 }
 
 .buttonsContainer {
+    margin-top: 20px;
+    margin-left: 200px;
 }
 
 .container {
@@ -17,7 +23,17 @@
 }
 
 .nameCol {
+    font-weight: 700;
 }
 
 .ageCol {
+    font-weight: 700;
+}
+
+.nameColItem {
+    opacity: 0.7;
+}
+
+.ageColItem {
+    font-weight: 500;
 }
