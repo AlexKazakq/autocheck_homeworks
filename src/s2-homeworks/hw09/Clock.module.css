@@ -5,10 +5,19 @@
 }
 
 .watch {
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 20px;
 }
 
 .watch strong {
+
 }
 
 .more {
+    margin-left: 20px;
+    font-size: 13px;
+    margin-bottom: 10px;
+    font-style: italic;
+    opacity: 0.6;
 }
