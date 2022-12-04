@@ -19,5 +19,15 @@ html {
 }
 
 .select {
-
+    margin-left: 20px;
 }
+
+.blue {
+    color: #000000;
+    background: #DDEEFF;
+}
+.dark {
+    color: #FFFFFF;
+    background: #212A34;
+}
+
