@@ -2,21 +2,32 @@
 }
 
 .responseContainer {
+    margin: 30px auto;
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .imageContainer {
+    width: 50%;
 }
 
 .image {
 }
 
 .textContainer{
+    width: 50%
 }
 
 .code {
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .text {
+    font-weight: 500;
 }
 .info {
+    font-weight: 500;
 }
