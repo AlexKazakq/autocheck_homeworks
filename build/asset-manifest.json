@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/autocheck_homeworks/static/css/main.5e2330f2.css",
-    "main.js": "/autocheck_homeworks/static/js/main.42781403.js",
+    "main.css": "/autocheck_homeworks/static/css/main.67606f35.css",
+    "main.js": "/autocheck_homeworks/static/js/main.a1d93db8.js",
     "static/js/787.66cb4309.chunk.js": "/autocheck_homeworks/static/js/787.66cb4309.chunk.js",
     "static/media/200.svg": "/autocheck_homeworks/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
     "static/media/error.svg": "/autocheck_homeworks/static/media/error.5a3135f381b00b53044eff200e725391.svg",
@@ -11,15 +11,18 @@
     "static/media/loader.svg": "/autocheck_homeworks/static/media/loader.1c3e93f7392dd9fc85be686540235921.svg",
     "static/media/closeOutline.svg": "/autocheck_homeworks/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/editIcon.svg": "/autocheck_homeworks/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
+    "static/media/down-arrow.svg": "/autocheck_homeworks/static/media/down-arrow.4788f681d5301e51946e57dab8576958.svg",
+    "static/media/up-arrow.svg": "/autocheck_homeworks/static/media/up-arrow.d84e4e7f9d9b766e91681fa692788023.svg",
     "static/media/checked.svg": "/autocheck_homeworks/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/autocheck_homeworks/index.html",
+    "static/media/arrow-sort.svg": "/autocheck_homeworks/static/media/arrow-sort.d18d4a1a2fb343a8cf4b6788b8859b06.svg",
     "static/media/burger.svg": "/autocheck_homeworks/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.5e2330f2.css.map": "/autocheck_homeworks/static/css/main.5e2330f2.css.map",
-    "main.42781403.js.map": "/autocheck_homeworks/static/js/main.42781403.js.map",
+    "main.67606f35.css.map": "/autocheck_homeworks/static/css/main.67606f35.css.map",
+    "main.a1d93db8.js.map": "/autocheck_homeworks/static/js/main.a1d93db8.js.map",
     "787.66cb4309.chunk.js.map": "/autocheck_homeworks/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e2330f2.css",
-    "static/js/main.42781403.js"
+    "static/css/main.67606f35.css",
+    "static/js/main.a1d93db8.js"
   ]
 }
